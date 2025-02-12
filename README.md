@@ -24,7 +24,7 @@
 
 ## Get Started
 
-#### 1. Please follow these steps to install SA-BEV.
+#### 1. Please follow these steps to install GeoBEV.
 
 a. Create a conda virtual environment and activate it.
 ```shell
